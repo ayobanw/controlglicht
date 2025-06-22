@@ -1,5 +1,5 @@
 local github_user = "ayobanw"
-local repo_name = "cpmspec"
+local repo_name = "controlglicht"
 local key_file = "keys.txt"
 local script_file = "control glicht.lua"
 
