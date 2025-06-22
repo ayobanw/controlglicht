@@ -1,7 +1,7 @@
 local github_user = "ayobanw"
 local repo_name = "controlglicht"
 local key_file = "keys.txt"
-local script_file = "control glicht.lua"
+local script_file = "[AYOB] control glicht.lua"
 
 local key_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. key_file
 local script_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. script_file
