@@ -25,7 +25,7 @@ end
 --========================================================
 
 local info = gg.getTargetInfo()
-local android_id = (info and info.androidId) or "AYOB"
+local android_id = (info and info.androidId) or "ANW"
 
 gg.alert("📱 Android ID anda: " .. android_id)
 
